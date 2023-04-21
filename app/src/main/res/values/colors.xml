@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Default colors  -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#E6E6E6</color>
+
+    <!--  Main colors  -->
+    <color name="red_light">#FF9800</color>
+    <color name="red_dark">#FF5722</color>
+
+    <!--  Morning  -->
+    <color name="morning_start">#FFD0AA</color>
+    <color name="morning_end">#FFB85E</color>
+
+    <!--  Lunch  -->
+    <color name="lunch_start">#FFB85E</color>
+    <color name="lunch_end">#FF8D3F</color>
+
+    <!--  Evening  -->
+    <color name="evening_start">#FF8D3F</color>
+    <color name="evening_end">#FF5E5E</color>
+
+    <!--  Night  -->
+    <color name="night_start">#FF5E5E</color>
+    <color name="night_end">#2D2D2D</color>
+
+</resources>

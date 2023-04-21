@@ -1,0 +1,18 @@
+<resources>
+    <!--  Common data  -->
+    <string name="app_name">Weather</string>
+    <string name="app_status">Status output</string>
+
+    <!--  Default data  -->
+    <string name="weather_temperature">TEMP</string>
+    <string name="weather_status">Weather status</string>
+
+    <!--  Wind  -->
+    <string name="title_wind">Wind summary:</string>
+    <string name="example_wind_speed">Speed</string>
+
+    <!--  Humidity  -->
+    <string name="title_humidity">Humidity summary:</string>
+    <string name="example_humidity">Percents</string>
+
+</resources>
